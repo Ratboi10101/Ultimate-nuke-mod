@@ -1,1 +1,10 @@
-
+[
+  {
+    "name": "High Quality Quick 3D Printing",
+    "production": 10,
+    "percentStatBonus": {"production": 50},
+    "requiredBuilding": "Factory"
+    "maintenance": 5,
+    "requiredTech": "Future Tech"
+  }
+]
