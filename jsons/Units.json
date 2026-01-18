@@ -24,5 +24,19 @@
 		"promotions": ["Evasion"],
 		"uniques": ["Nuclear weapon of Strength [3]", "Only available <if [Manhattan Project] is constructed>", "Self-destructs when attacking", "Blast radius [3]", "Consumes [2] [Uranium]"],
 		"attackSound": "nuke"
+	},	
+	{
+		"name": "AN602 'Tsar Bomba'",
+		"unitType": "Atomic Bomber",
+		"uniqueTo": "Russia",
+		"movement": 1,
+		"strength": 1000,
+		"rangedStrength": 1000,
+		"range": 17,
+		"cost": 5000,
+		"requiredTech": "Nuclear Fusion",
+		"promotions": ["Evasion"],
+		"uniques": ["Nuclear weapon of Strength [7]", "Only available <if [Manhattan Project] is constructed>", "Self-destructs when attacking", "Blast radius [7]", "Consumes [3] [Uranium]"],
+		"attackSound": "nuke"
 	}
 ]
