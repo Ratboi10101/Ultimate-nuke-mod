@@ -6,10 +6,10 @@
 		"strength": 110,
 		"rangedStrength": 110,
 		"range": 10,
-		"cost": 500,
+		"cost": 1500,
 		"requiredTech": "Nuclear Fission",
 		"promotions": ["Evasion"],
-		"uniques": ["Self-destructs when attacking", "Blast radius [2]"],
+		"uniques": ["Nuclear weapon of Strength [1]", "Self-destructs when attacking", "Blast radius [2]"],
 		"attackSound": "nuke"
 	}
 ]
