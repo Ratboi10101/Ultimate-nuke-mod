@@ -3,13 +3,13 @@
 		"name": "MOAB",
 		"unitType": "Atomic Bomber",
 		"movement": 1,
-		"strength": 110,
-		"rangedStrength": 110,
+		"strength": 90,
+		"rangedStrength": 90,
 		"range": 10,
 		"cost": 1500,
 		"requiredTech": "Nuclear Fission",
 		"promotions": ["Evasion"],
-		"uniques": ["Nuclear weapon of Strength [1]", "Self-destructs when attacking", "Blast radius [2]"],
+		"uniques": ["Nuclear weapon of Strength [1]", "Self-destructs when attacking", "Blast radius [1]"],
 		"attackSound": "nuke"
 	},	
 	{
