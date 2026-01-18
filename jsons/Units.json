@@ -9,7 +9,7 @@
 		"cost": 500,
 		"requiredTech": "Nuclear Fission",
 		"promotions": ["Evasion"],
-		"uniques": ["Nuclear weapon of Strength [1]", "Self-destructs when attacking", "Blast radius [2]"],
+		"uniques": ["Self-destructs when attacking", "Blast radius [2]"],
 		"attackSound": "nuke"
 	}
 ]
