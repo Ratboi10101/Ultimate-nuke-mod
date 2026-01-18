@@ -2,7 +2,7 @@
 	{
 		"name": "MOAB",
 		"unitType": "Atomic Bomber",
-		"UniqueTo": "America",
+		"uniqueTo": "America",
 		"movement": 1,
 		"strength": 90,
 		"rangedStrength": 90,
