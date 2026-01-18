@@ -2,6 +2,7 @@
 	{
 		"name": "MOAB",
 		"unitType": "Atomic Bomber",
+		"UniqueTo": "America",
 		"movement": 1,
 		"strength": 90,
 		"rangedStrength": 90,
@@ -37,6 +38,19 @@
 		"requiredTech": "Nuclear Fusion",
 		"promotions": ["Evasion"],
 		"uniques": ["Nuclear weapon of Strength [7]", "Only available <if [Manhattan Project] is constructed>", "Self-destructs when attacking", "Blast radius [7]", "Consumes [3] [Uranium]"],
+		"attackSound": "nuke"
+	},
+	{
+		"name": "'Project Sundial'",
+		"unitType": "Atomic Bomber",
+		"movement": 1,
+		"strength": 100000,
+		"rangedStrength": 100000,
+		"range": 25,
+		"cost": 5000,
+		"requiredTech": "Nuclear Fusion",
+		"promotions": ["Evasion"],
+		"uniques": ["Nuclear weapon of Strength [15]", "Only available <if [Manhattan Project] is constructed>", "Self-destructs when attacking", "Blast radius [40]", "Consumes [10] [Uranium]", "Cannot be purchased", "Uncaptureable", "limited to [1] per Civilization"],
 		"attackSound": "nuke"
 	}
 ]
