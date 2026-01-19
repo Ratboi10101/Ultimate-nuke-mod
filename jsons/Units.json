@@ -53,4 +53,32 @@
 		"uniques": ["Nuclear weapon of Strength [15]", "Only available <if [Manhattan Project] is constructed>", "Self-destructs when attacking", "Blast radius [40]", "Consumes [10] [Uranium]", "Cannot be purchased", "Uncaptureable"],
 		"attackSound": "nuke"
 	}
+	{
+		"name": "Civilian Transport Helicopter",
+		"unitType": "Helicopter",
+		"movement": 8,
+		"strength": 10,
+		"rangedStrength": 10,
+		"cost": 400,
+		"requiredTech": "Computers",
+		"requiredResource": "Aluminum",
+		"promotions": ["Evasion"],
+        "uniques": ["No defensive terrain bonus", "Can move after attacking",
+			"All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit", "Can carry [5] [Civilian] units"],
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Military Transport Helicopter",
+		"unitType": "Helicopter",
+		"movement": 6,
+		"strength": 50,
+		"rangedStrength": 50,
+		"cost": 450,
+		"requiredTech": "Computers",
+		"requiredResource": "Aluminum",
+		"promotions": ["Evasion"],
+        "uniques": ["No defensive terrain bonus", "Can move after attacking",
+			"All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit", "Can carry [4] [Gunpowder] units"],
+		"attackSound": "machinegun"
+	},
 ]
