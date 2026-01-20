@@ -3,7 +3,7 @@
 A mod that adds nukes n stuff
 
 ## Icon images
-Nuclear Blast by kareemov from <a href="https://thenounproject.com/browse/icons/term/nuclear-blast/" target="_blank" title="Nuclear Blast Icons">Noun Project</a> for Hydrogen Bomb
+Nuclear Blast by kareemov for Hydrogen Bomb
 
 
-all (CC BY 3.0)
+All images are from https://thenounproject.com (CC BY 3.0)
