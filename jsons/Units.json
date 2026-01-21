@@ -34,10 +34,10 @@
 		"strength": 1000,
 		"rangedStrength": 1000,
 		"range": 17,
-		"cost": 1700,
+		"cost": 1750,
 		"requiredTech": "Nuclear Fusion",
 		"promotions": ["Evasion"],
-		"uniques": ["Nuclear weapon of Strength [7]", "Only available <if [Manhattan Project] is constructed>", "Self-destructs when attacking", "Blast radius [7]", "Consumes [3] [Uranium]"],
+		"uniques": ["Nuclear weapon of Strength [7]", "Only available <if [Manhattan Project] is constructed>", "Self-destructs when attacking", "Blast radius [7]", "Consumes [4] [Uranium]"],
 		"attackSound": "nuke"
 	},
 	{
@@ -46,11 +46,11 @@
 		"movement": 1,
 		"strength": 100000,
 		"rangedStrength": 100000,
-		"range": 25,
+		"range": 15,
 		"cost": 5000,
 		"requiredTech": "Nuclear Fusion",
 		"promotions": ["Evasion"],
-		"uniques": ["Nuclear weapon of Strength [15]", "Only available <if [Manhattan Project] is constructed>", "Self-destructs when attacking", "Blast radius [40]", "Consumes [10] [Uranium]", "Cannot be purchased", "Uncaptureable"],
+		"uniques": ["Nuclear weapon of Strength [15]", "Only available <if [Manhattan Project] is constructed>", "Self-destructs when attacking", "Blast radius [40]", "Consumes [12] [Uranium]", "Cannot be purchased", "Uncaptureable"],
 		"attackSound": "nuke"
 	}
 ]
