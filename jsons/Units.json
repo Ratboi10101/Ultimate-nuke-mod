@@ -50,7 +50,7 @@
 		"cost": 5000,
 		"requiredTech": "Nuclear Fusion",
 		"promotions": ["Evasion"],
-		"uniques": ["Nuclear weapon of Strength [15]", "Only available <if [Manhattan Project] is constructed>", "Self-destructs when attacking", "Blast radius [40]", "Consumes [12] [Uranium]", "Cannot be purchased", "Uncaptureable"],
+		"uniques": ["Nuclear weapon of Strength [20]", "Only available <if [Manhattan Project] is constructed>", "Self-destructs when attacking", "Blast radius [40]", "Consumes [12] [Uranium]", "Cannot be purchased", "Uncaptureable"],
 		"attackSound": "nuke"
 	}
 ]
