@@ -1,7 +1,14 @@
 [
   {
+		"name": "Manhattan Project",
+		"isNationalWonder": true,
+		"culture": 1,
+		"uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion", "Only available <with [Uranium]>"],
+		"requiredTech": "Atomic Theory"
+	},
+  {
     "name": "High Quality Quick 3D Printing",
-    "production": 10,
+    "production": 50,
     "percentStatBonus": {"production": 50},
     "requiredBuilding": "Factory"
     "maintenance": 5,
