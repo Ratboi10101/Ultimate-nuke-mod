@@ -1,15 +1,16 @@
 [
 	{
 		"name": "MOAB",
-		"unitType": "Bomber",
+		"unitType": "Atomic Bomber",
 		"uniqueTo": "America",
 		"movement": 1,
-		"strength": 80,
-		"rangedStrength": 80,
-		"range": 8,
+		"strength": 90,
+		"rangedStrength": 90,
+		"range": 9,
 		"cost": 800,
 		"requiredTech": "Nuclear Fission",
-		"uniques": ["Cannot be carried by [Carrier] units", "Self-destructs when attacking"],
+		"promotions": ["Evasion"],
+		"uniques": ["Self-destructs when attacking"],
 		"attackSound": "nuke"
 	},	
 	{
