@@ -10,7 +10,7 @@
 		"cost": 1000,
 		"requiredTech": "Nuclear Fission",
 		"promotions": ["Evasion"],
-		"uniques": ["Self-destructs when attacking","[+7] Sight"],
+		"uniques": ["Self-destructs when attacking"],
 		"attackSound": "nuke"
 	},	
 	{
