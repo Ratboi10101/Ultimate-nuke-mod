@@ -5,13 +5,59 @@
 		"culture": 1,
 		"uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion", "Only available <with [Uranium]>"],
 		"requiredTech": "Atomic Theory"
-	},
-  {
-    "name": "High Quality Quick 3D Printing",
-    "production": 50,
-    "percentStatBonus": {"production": 50},
-    "requiredBuilding": "Factory"
-    "maintenance": 5,
-    "requiredTech": "Future Tech"
-  }
+  },
+	{
+		"name": "RDS-1 'First Lightning'",
+		"replaces": "Manhattan Project",
+		"uniqueTo": "Russia",
+		"isNationalWonder": true,
+		"culture": 1,
+		"uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion", "Only available <with [Uranium]>"],
+		"requiredTech": "Atomic Theory"
+  },
+	{
+		"name": "Operation Hurricane",
+		"replaces": "Manhattan Project",
+		"uniqueTo": "England",
+		"isNationalWonder": true,
+		"culture": 1,
+		"uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion", "Only available <with [Uranium]>"],
+		"requiredTech": "Atomic Theory"
+  },
+	{
+		"name": "Gerboise Bleue",
+		"replaces": "Manhattan Project",
+		"uniqueTo": "France",
+		"isNationalWonder": true,
+		"culture": 1,
+		"uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion", "Only available <with [Uranium]>"],
+		"requiredTech": "Atomic Theory"
+  },
+	{
+		"name": "Operation Smiling Buddha",
+		"replaces": "Manhattan Project",
+		"uniqueTo": "India",
+		"isNationalWonder": true,
+		"culture": 1,
+		"uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion", "Only available <with [Uranium]>"],
+		"requiredTech": "Atomic Theory"
+  },
+	{
+		"name": "Project 596",
+		"replaces": "Manhattan Project",
+		"uniqueTo": "China",
+		"isNationalWonder": true,
+		"culture": 1,
+		"uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion", "Only available <with [Uranium]>"],
+		"requiredTech": "Atomic Theory"
+  },
+	{
+		"name": "Project 596",
+		"replaces": "Manhattan Project",
+		"uniqueTo": "China",
+		"isNationalWonder": true,
+		"culture": 1,
+		"uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion", "Only available <with [Uranium]>"],
+		"requiredTech": "Atomic Theory"
+  },
 ]
