@@ -3,8 +3,6 @@
 		"name": "Uranium Enrichment Facility"
 		"requiredTech": "Atomic Theory",
 		"cost": 370,
-		"replaces": "Manhattan Project",
-		"uniqueTo": "Russia",
 		"isNationalWonder": true,
 		"culture": 1,
 		"uniques": ["Only available <with [Uranium]>"],
