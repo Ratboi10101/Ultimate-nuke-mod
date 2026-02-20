@@ -7,7 +7,7 @@
 		"strength": 150,
 		"rangedStrength": 150,
 		"range": 9,
-		"cost": 1000,
+		"cost": 850,
 		"requiredTech": "Nuclear Fission",
 		"promotions": ["Evasion"],
 		"uniques": ["Self-destructs when attacking","Destroys tile improvements when attacking"],
