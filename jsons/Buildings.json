@@ -14,10 +14,9 @@
 	  "cost": 740,
 	  "isNationalWonder": true,
 	  "culture": 1,
-	  "uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion", "Only available <with [Uranium]>"],
+	  "uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion", "Only available <with [Uranium]>","Triggers the following global alert: ['We knew the world would not be the same. A few people laughed, a few people cried. Most people were silent.' - J. Robert Oppenheimer]"],
 	  "requiredBuilding": "Uranium Enrichment Facility",
 	  "requiredTech": "Atomic Theory"
-	  "quote": "'We knew the world would not be the same. A few people laughed, a few people cried. Most people were silent.' - J. Robert Oppenheimer"
   },
 	{
 		"name": "RDS-1 'First Lightning'",
