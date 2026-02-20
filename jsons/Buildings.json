@@ -1,63 +1,79 @@
 [
-  {
-		"name": "Manhattan Project",
+	{
+		"name": "Uranium Enrichment Facility"
+		"requiredTech": "Atomic Theory",
+		"cost": 370,
+		"replaces": "Manhattan Project",
+		"uniqueTo": "Russia",
 		"isNationalWonder": true,
 		"culture": 1,
-		"uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion", "Only available <with [Uranium]>"],
+		"uniques": ["Only available <with [Uranium]>"],
+		"requiredBuilding": "Factory",
 		"requiredTech": "Atomic Theory"
+	},
+  {
+	  "name": "Manhattan Project",
+	  "cost": 740,
+	  "isNationalWonder": true,
+	  "culture": 1,
+	  "uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion", "Only available <with [Uranium]>"],
+	  "requiredBuilding": "Uranium Enrichment Facility",
+	  "requiredTech": "Atomic Theory"
   },
 	{
 		"name": "RDS-1 'First Lightning'",
+		"cost": 740,
 		"replaces": "Manhattan Project",
 		"uniqueTo": "Russia",
 		"isNationalWonder": true,
 		"culture": 1,
 		"uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion", "Only available <with [Uranium]>"],
+		"requiredBuilding": "Uranium Enrichment Facility",
 		"requiredTech": "Atomic Theory"
   },
 	{
 		"name": "Operation Hurricane",
+		"cost": 740,
 		"replaces": "Manhattan Project",
 		"uniqueTo": "England",
 		"isNationalWonder": true,
 		"culture": 1,
 		"uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion", "Only available <with [Uranium]>"],
+		"requiredBuilding": "Uranium Enrichment Facility",
 		"requiredTech": "Atomic Theory"
   },
 	{
 		"name": "Gerboise Bleue",
+		"cost": 740,
 		"replaces": "Manhattan Project",
 		"uniqueTo": "France",
 		"isNationalWonder": true,
 		"culture": 1,
 		"uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion", "Only available <with [Uranium]>"],
+		"requiredBuilding": "Uranium Enrichment Facility",
 		"requiredTech": "Atomic Theory"
   },
 	{
 		"name": "Operation Smiling Buddha",
+		"cost": 740,
 		"replaces": "Manhattan Project",
 		"uniqueTo": "India",
 		"isNationalWonder": true,
 		"culture": 1,
 		"uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion", "Only available <with [Uranium]>"],
+		"requiredBuilding": "Uranium Enrichment Facility",
 		"requiredTech": "Atomic Theory"
   },
 	{
 		"name": "Project 596",
+		"cost": 740,
 		"replaces": "Manhattan Project",
 		"uniqueTo": "China",
 		"isNationalWonder": true,
 		"culture": 1,
 		"uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion", "Only available <with [Uranium]>"],
+		"requiredBuilding": "Uranium Enrichment Facility",
 		"requiredTech": "Atomic Theory"
   },
-	{
-		"name": "Project 596",
-		"replaces": "Manhattan Project",
-		"uniqueTo": "China",
-		"isNationalWonder": true,
-		"culture": 1,
-		"uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion", "Only available <with [Uranium]>"],
-		"requiredTech": "Atomic Theory"
-  },
+	
 ]
