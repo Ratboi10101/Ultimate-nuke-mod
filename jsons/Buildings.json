@@ -77,7 +77,7 @@
 	  "name": "Operation Greenhouse",
 	  "cost": 800,
 	  "isNationalWonder": true,
-	  "culture": 1,
+	  "science": 1,
 	  "uniques": ["Only available <with [Uranium]>","All newly-trained [Atomic Bomber] units [in all cities] receive the [Boosted Fission] promotion"],
 	  "requiredBuilding": "Manhattan Project",
 	  "requiredTech": "Nuclear Fission"
