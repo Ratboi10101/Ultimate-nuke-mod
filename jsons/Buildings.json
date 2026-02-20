@@ -3,7 +3,7 @@
 		"name": "Uranium Enrichment Facility"
 		"requiredTech": "Atomic Theory",
 		"cost": 370,
-		"isWonder": true,
+		"isNationalWonder": true,
 		"maintenance": 2,
 		"uniques": ["Only available <with [Uranium]>"],
 		"requiredBuilding": "Factory",
@@ -78,7 +78,7 @@
 	  "cost": 800,
 	  "isNationalWonder": true,
 	  "culture": 1,
-	  "uniques": ["Only available <with [Uranium]>","All newly-trained [Atomic Bomber] unit [in all cities] receive the [Boosted Fission] promotion"],
+	  "uniques": ["Only available <with [Uranium]>","All newly-trained [Atomic Bomber] units [in all cities] receive the [Boosted Fission] promotion"],
 	  "requiredBuilding": "Manhattan Project",
 	  "requiredTech": "Nuclear Fission"
   },
