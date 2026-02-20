@@ -3,7 +3,7 @@
 		"name": "Uranium Enrichment Facility"
 		"requiredTech": "Atomic Theory",
 		"cost": 370,
-		"isNationalWonder": true,
+		"isWonder": true,
 		"maintenance": 2,
 		"uniques": ["Only available <with [Uranium]>"],
 		"requiredBuilding": "Factory",
