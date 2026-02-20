@@ -91,4 +91,48 @@
 	  "requiredBuilding": "Operation Greenhouse",
 	  "requiredTech": "Nuclear Fusion"
   },
+	{
+		"name": "RDS-37",
+		"cost": 825,
+		"replaces": "Operation Ivy",
+		"uniqueTo": "Russia",
+		"isNationalWonder": true,
+		"science": 1,
+		"uniques": ["Triggers a global alert upon completion", "Only available <with [Uranium]>"],
+		"requiredBuilding": "Operation Greenhouse",
+		"requiredTech": "Nuclear Fusion"
+  },
+	{
+		"name": "Operation Grapple",
+		"cost": 825,
+		"replaces": "Operation Ivy",
+		"uniqueTo": "England",
+		"isNationalWonder": true,
+		"science": 1,
+		"uniques": ["Triggers a global alert upon completion", "Only available <with [Uranium]>"],
+		"requiredBuilding": "Operation Greenhouse",
+		"requiredTech": "Nuclear Fusion"
+  },
+	{
+		"name": "Project 639",
+		"cost": 825,
+		"replaces": "Operation Ivy",
+		"uniqueTo": "China",
+		"isNationalWonder": true,
+		"science": 1,
+		"uniques": ["Triggers a global alert upon completion", "Only available <with [Uranium]>"],
+		"requiredBuilding": "Operation Greenhouse",
+		"requiredTech": "Nuclear Fusion"
+  },
+	{
+		"name": "Operation Canopus",
+		"cost": 825,
+		"replaces": "Operation Ivy",
+		"uniqueTo": "France",
+		"isNationalWonder": true,
+		"science": 1,
+		"uniques": ["Triggers a global alert upon completion", "Only available <with [Uranium]>"],
+		"requiredBuilding": "Operation Greenhouse",
+		"requiredTech": "Nuclear Fusion"
+  }
 ]
