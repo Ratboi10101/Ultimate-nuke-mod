@@ -10,7 +10,7 @@
 		"cost": 850,
 		"requiredTech": "Nuclear Fission",
 		"promotions": ["Evasion"],
-		"uniques": ["Self-destructs when attacking","Destroys tile improvements when attacking","[This Unit] loses the [Boosted Fission] promotion"],
+		"uniques": ["Self-destructs when attacking","Destroys tile improvements when attacking"],
 		"attackSound": "nuke"
 	},	
 	{
@@ -38,7 +38,7 @@
 		"cost": 1250,
 		"requiredTech": "Nuclear Fusion",
 		"promotions": ["Evasion"],
-		"uniques": ["Nuclear weapon of Strength [3]", "Only available <if [Manhattan Project] is constructed>", "Self-destructs when attacking", "Blast radius [3]", "Consumes [2] [Uranium]","[This Unit] loses the [Boosted Fission] promotion"],
+		"uniques": ["Nuclear weapon of Strength [3]", "Only available <if [Manhattan Project] is constructed>", "Self-destructs when attacking", "Blast radius [3]", "Consumes [2] [Uranium]"],
 		"attackSound": "nuke"
 	},	
 	{
@@ -52,11 +52,11 @@
 		"cost": 1750,
 		"requiredTech": "Nuclear Fusion",
 		"promotions": ["Evasion"],
-		"uniques": ["Nuclear weapon of Strength [5]", "Only available <if [Manhattan Project] is constructed>", "Self-destructs when attacking", "Blast radius [7]", "Consumes [4] [Uranium]","[This Unit] loses the [Boosted Fission] promotion"],
+		"uniques": ["Nuclear weapon of Strength [5]", "Only available <if [Manhattan Project] is constructed>", "Self-destructs when attacking", "Blast radius [7]", "Consumes [4] [Uranium]"],
 		"attackSound": "nuke"
 	},
 	{
-		"name": "'Project Sundial'",
+		"name": "'The Apocalypse",
 		"unitType": "Atomic Bomber",
 		"movement": 1,
 		"strength": 100000,
@@ -65,7 +65,7 @@
 		"cost": 5500,
 		"requiredTech": "Nuclear Fusion",
 		"promotions": ["Evasion"],
-		"uniques": ["Nuclear weapon of Strength [10]", "Only available <if [Manhattan Project] is constructed>", "Self-destructs when attacking", "Blast radius [40]", "Consumes [12] [Uranium]", "Cannot be purchased", "Uncaptureable","Triggers a global alert upon completion","[This Unit] loses the [Boosted Fission] promotion"],
+		"uniques": ["Nuclear weapon of Strength [10]", "Only available <if [Manhattan Project] is constructed>", "Self-destructs when attacking", "Blast radius [40]", "Consumes [12] [Uranium]", "Cannot be purchased", "Uncaptureable","Unbuildable","Triggers a global alert upon completion"],
 		"attackSound": "nuke"
 	}
 ]
