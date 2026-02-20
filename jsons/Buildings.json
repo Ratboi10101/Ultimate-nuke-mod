@@ -73,5 +73,14 @@
 		"requiredBuilding": "Uranium Enrichment Facility",
 		"requiredTech": "Atomic Theory"
   },
+	{
+	  "name": "Operation Greenhouse",
+	  "cost": 800,
+	  "isNationalWonder": true,
+	  "culture": 1,
+	  "uniques": ["Only available <with [Uranium]>"],
+	  "requiredBuilding": "Manhattan Project",
+	  "requiredTech": "Nuclear Fission"
+  },
 	
 ]
