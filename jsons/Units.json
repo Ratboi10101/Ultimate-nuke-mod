@@ -24,8 +24,24 @@
 		"requiredTech": "Nuclear Fission",
 		"requiredResource": "Uranium",
 		"promotions" : ["Evasion"],
+		"upgradesTo": "Boosted Atomic Bomb",
 		"uniques": ["Nuclear weapon of Strength [1]", "Only available <if [Manhattan Project] is constructed>", "Self-destructs when attacking",
 			"Blast radius [2]"],
+		"attackSound": "nuke"
+	},
+	{
+		"name": "Boosted Atomic Bomb",
+		"unitType": "Atomic Bomber",
+		"movement": 1,
+		"strength": 175,
+		"rangedStrength": 175,
+		"range": 10,
+		"cost": 770,
+		"requiredTech": "Nuclear Fission",
+		"requiredResource": "Uranium",
+		"promotions" : ["Evasion"],
+		"uniques": ["Nuclear weapon of Strength [1]", "Only available <if [Operation Greenhouse] is constructed>", "Self-destructs when attacking",
+			"Blast radius [3]"],
 		"attackSound": "nuke"
 	},
 	{
@@ -56,7 +72,7 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "'The Apocalypse",
+		"name": "'The Apocalypse'",
 		"unitType": "Atomic Bomber",
 		"movement": 1,
 		"strength": 100000,
@@ -65,7 +81,7 @@
 		"cost": 5500,
 		"requiredTech": "Nuclear Fusion",
 		"promotions": ["Evasion"],
-		"uniques": ["Nuclear weapon of Strength [10]", "Only available <if [Manhattan Project] is constructed>", "Only available <if [Operation Ivy] is constructed>", "Self-destructs when attacking", "Blast radius [40]", "Consumes [12] [Uranium]", "Cannot be purchased", "Uncaptureable","Unbuildable","Triggers a global alert upon completion"],
+		"uniques": ["Nuclear weapon of Strength [10]", "Only available <if [Project Sundial] is constructed>", "Only available <if [Operation Ivy] is constructed>", "Self-destructs when attacking", "Blast radius [40]", "Consumes [12] [Uranium]", "Cannot be purchased", "Uncaptureable","Unbuildable","Triggers a global alert upon completion"],
 		"attackSound": "nuke"
 	}
 ]
