@@ -1,4 +1,5 @@
 [
+	#Bombs
 	{
 		"name": "MOAB",
 		"unitType": "Atomic Bomber",
@@ -83,5 +84,19 @@
 		"promotions": ["Evasion"],
 		"uniques": ["Nuclear weapon of Strength [10]", "Only available <if [Project Sundial] is constructed>", "Only available <if [Operation Ivy] is constructed>", "Self-destructs when attacking", "Blast radius [40]", "Consumes [12] [Uranium]", "Cannot be purchased", "Uncaptureable","Unbuildable","Triggers a global alert upon completion"],
 		"attackSound": "nuke"
+	},
+	#Others
+	{
+		"name": "GDR-1 'The Patriot'",
+		"unitType": "Armored",
+		"replaces": "Giant Death Robot",
+		"uniqueTo": "America",
+		"movement": 5,
+		"strength": 165,
+		"cost": 425,
+		"requiredTech": "Nuclear Fusion",
+		"requiredResource": "Uranium",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "gdrAttack"
 	}
 ]
