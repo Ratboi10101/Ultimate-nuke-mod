@@ -134,5 +134,14 @@
 		"uniques": ["Triggers a global alert upon completion", "Only available <with [Uranium]>"],
 		"requiredBuilding": "Operation Greenhouse",
 		"requiredTech": "Nuclear Fusion"
+  },
+	{
+	  "name": "Project Sundial",
+	  "cost": 1000,
+	  "isNationalWonder": true,
+	  "science": 1,
+	  "uniques": ["Triggers a global alert upon completion", "Only available <with [Uranium]>"],
+	  "requiredBuilding": "Operation Ivy",
+	  "requiredTech": "Nuclear Fusion"
   }
 ]
