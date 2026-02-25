@@ -92,7 +92,7 @@
 		"strength": 85,
 		"rangedStrength": 85,
 		"range" : 0,
-		"cost": 450,
+		"cost": 500,
 		"promotions" : ["March"],
 		"requiredTech": "Nuclear Fusion",
 		"requiredResource": "Uranium",
