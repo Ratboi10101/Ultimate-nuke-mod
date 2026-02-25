@@ -10,7 +10,6 @@
 	},
 	{
 		"name": "Pilot Training I",
-		"prerequisites": ["Pilot Training I"]
 		"uniques": ["[+5]% Strength <when attacking>"],
 		"unitTypes": ["MultipurposeDecisiveCombatWeaponSystem"],
         "column": 1,
@@ -18,7 +17,7 @@
 	},
 	{
 		"name": "Pilot Training II",
-		"prerequisites": "Pilot Training I",
+		"prerequisites": ["Pilot Training I"],
 		"uniques": ["[+5]% Strength <when attacking>"],
 		"unitTypes": ["MultipurposeDecisiveCombatWeaponSystem"],
         "column": 1,
@@ -26,7 +25,7 @@
 	},
 	{
 		"name": "Connection of Consciousness",
-		"prerequisites": "Pilot Training II",
+		"prerequisites": ["Pilot Training II"],
 		"uniques": ["[+15]% Strength <when attacking>","Withdraws before melee combat <with [50]% chance>"],
 		"unitTypes": ["MultipurposeDecisiveCombatWeaponSystem"],
         "column": 1,
@@ -34,7 +33,7 @@
 	},
 	{
 		"name" : "Complete Synchronization"
-		"prerequisites": "Connection of Consciousness",
+		"prerequisites": ["Connection of Consciousness"],
 		"uniques": ["[+15]% Strength <when attacking>","[1] additional attacks per turn"],
 		"unitTypes": ["MultipurposeDecisiveCombatWeaponSystem"],
         "column": 1,
@@ -42,7 +41,7 @@
 	},
 	{
 		"name" : "Ascension"
-		"prerequisites": "Complete Synchronization",
+		"prerequisites": ["Complete Synchronization"],
 		"uniques": ["[This Unit] loses the [Generator Coolant Cable] promotion", "[+70]% Strength","All healing effects doubled","Withdraws before melee combat <with [99]% chance>","Instantly provides [1] [Uranium]"],
 		"unitTypes": ["MultipurposeDecisiveCombatWeaponSystem"],
         "column": 1,
@@ -50,7 +49,7 @@
 	},
 	{
 		"name": "Energy Rifle",
-		"prerequisites": "Pilot Training I",
+		"prerequisites": ["Pilot Training I"],
 		"uniques": ["[+3] Range"],
 		"unitTypes": ["MultipurposeDecisiveCombatWeaponSystem"],
         "column": 2,
