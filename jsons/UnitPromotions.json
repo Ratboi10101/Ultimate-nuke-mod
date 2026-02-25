@@ -10,6 +10,7 @@
 	},
 	{
 		"name": "Pilot Training I",
+		"prerequisites": ["Pilot Training I"]
 		"uniques": ["[+5]% Strength <when attacking>"],
 		"unitTypes": ["MultipurposeDecisiveCombatWeaponSystem"],
         "column": 1,
