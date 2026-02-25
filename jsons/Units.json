@@ -87,29 +87,16 @@
 	},
 	#Others
 	{
-		"name": "GDR-01 'The Patriot'",
+		"name": "Unit-01 'The Salvator'",
 		"unitType": "Armored",
 		"replaces": "Giant Death Robot",
-		"uniqueTo": "America",
-		"movement": 5,
-		"strength": 175,
-		"cost": 550,
+		"uniqueTo": "Japan",
+		"movement": 7,
+		"strength": 75,
+		"cost": 450,
 		"requiredTech": "Nuclear Fusion",
 		"requiredResource": "Uranium",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus","[40]% chance to intercept air attacks"],
-		"attackSound": "gdrAttack"
-	},
-	{
-		"name": "GDR-02 'The Terminator'",
-		"unitType": "Armored",
-		"replaces": "Giant Death Robot",
-		"uniqueTo": "America",
-		"movement": 6,
-		"strength": 150,
-		"cost": 550,
-		"requiredTech": "Nuclear Fusion",
-		"requiredResource": "Uranium",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus",],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus","[3] additional attacks per turn","[+30]% Strength decreasing with distance from the capital","Withdraws before melee combat <with [50]% chance>"],
 		"attackSound": "gdrAttack"
 	}
 ]
