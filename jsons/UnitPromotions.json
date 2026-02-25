@@ -45,7 +45,7 @@
 		"uniques": ["[This Unit] loses the [Generator Coolant Cable] promotion", "[+70]% Strength","All healing effects doubled","Withdraws before melee combat <with [99]% chance>","Instantly provides [1] [Uranium]"],
 		"unitTypes": ["MultipurposeDecisiveCombatWeaponSystem"],
         "column": 1,
-        "row": 4
+        "row": 5
 	},
 	{
 		"name": "Energy Rifle",
