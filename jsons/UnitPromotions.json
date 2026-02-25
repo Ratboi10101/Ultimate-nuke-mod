@@ -9,7 +9,7 @@
 		"uniques" : ["[+50]% Strength decreasing with distance from the capital"]
 	},
 	{
-		"name": "Pilot Training I",
+		"name": "Pilot Trainin I",
 		"uniques": ["[+5]% Strength <when fighting in [Open terrain] tiles> <when attacking>", "[+5]% Strength <when fighting in [Rough terrain] tiles> <when attacking>"],
 		"unitTypes": ["MultipurposeDecisiveCombatWeaponSystem"],
         "column": 1,
