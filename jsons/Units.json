@@ -91,7 +91,7 @@
 		"movement": 7,
 		"strength": 85,
 		"rangedStrength": 85,
-		"range" : 0,
+		"range" : 1,
 		"cost": 500,
 		"promotions" : ["March"],
 		"requiredTech": "Nuclear Fusion",
