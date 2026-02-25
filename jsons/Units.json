@@ -90,6 +90,8 @@
 		"uniqueTo": "Japan",
 		"movement": 7,
 		"strength": 95,
+		"range" : 1,
+		"rangedStrength": 80,
 		"cost": 500,
 		"promotions" : ["March"],
 		"requiredTech": "Nuclear Fusion",
