@@ -13,7 +13,7 @@
 		"uniques": ["[+5]% Strength <when attacking>"],
 		"unitTypes": ["MultipurposeDecisiveCombatWeaponSystem"],
         "column": 1,
-        "row": 1
+        "row": 100
 	},
 	{
 		"name": "Pilot Training II",
@@ -21,7 +21,7 @@
 		"uniques": ["[+5]% Strength <when attacking>"],
 		"unitTypes": ["MultipurposeDecisiveCombatWeaponSystem"],
         "column": 1,
-        "row": 2
+        "row": 101
 	},
 	{
 		"name": "Connection of Consciousness",
@@ -29,7 +29,7 @@
 		"uniques": ["[+15]% Strength <when attacking>","Withdraws before melee combat <with [50]% chance>"],
 		"unitTypes": ["MultipurposeDecisiveCombatWeaponSystem"],
         "column": 1,
-        "row": 3
+        "row": 102
 	},
 	{
 		"name" : "Complete Synchronization"
@@ -37,7 +37,7 @@
 		"uniques": ["[+15]% Strength <when attacking>","[1] additional attacks per turn"],
 		"unitTypes": ["MultipurposeDecisiveCombatWeaponSystem"],
         "column": 1,
-        "row": 4
+        "row": 103
 	},
 	{
 		"name" : "Ascension"
@@ -45,7 +45,7 @@
 		"uniques": ["[This Unit] loses the [Generator Coolant Cable] promotion", "[+70]% Strength","All healing effects doubled","Withdraws before melee combat <with [99]% chance>"],
 		"unitTypes": ["MultipurposeDecisiveCombatWeaponSystem"],
         "column": 1,
-        "row": 5
+        "row": 104
 	},
 	{
 		"name": "Energy Rifle",
@@ -53,6 +53,6 @@
 		"uniques": ["[+3] Range"],
 		"unitTypes": ["MultipurposeDecisiveCombatWeaponSystem"],
         "column": 2,
-        "row": 2
+        "row": 101
 	}
 ]
