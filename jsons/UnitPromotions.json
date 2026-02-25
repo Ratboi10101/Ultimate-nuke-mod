@@ -10,7 +10,7 @@
 	},
 	{
 		"name": "Pilot Training I",
-		"uniques": ["[+5]% Strength <when fighting in [Open terrain] tiles> <when attacking>", "[+5]% Strength <when fighting in [Rough terrain] tiles> <when attacking>"],
+		"uniques": ["[+5]% Strength <when attacking>"],
 		"unitTypes": ["MultipurposeDecisiveCombatWeaponSystem"],
         "column": 1,
         "row": 1
@@ -18,7 +18,7 @@
 	{
 		"name": "Pilot Training II",
 		"prerequisites": "Pilot Training I",
-		"uniques": ["[+5]% Strength <when fighting in [Open terrain] tiles> <when attacking>", "[+5]% Strength <when fighting in [Rough terrain] tiles> <when attacking>"],
+		"uniques": ["[+5]% Strength <when attacking>"],
 		"unitTypes": ["MultipurposeDecisiveCombatWeaponSystem"],
         "column": 1,
         "row": 2
@@ -26,7 +26,7 @@
 	{
 		"name": "Connection of Consciousness",
 		"prerequisites": "Pilot Training II",
-		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <when attacking>", "[+15]% Strength <when fighting in [Rough terrain] tiles> <when attacking>","Withdraws before melee combat <with [50]% chance>"],
+		"uniques": ["[+15]% Strength <when attacking>","Withdraws before melee combat <with [50]% chance>"],
 		"unitTypes": ["MultipurposeDecisiveCombatWeaponSystem"],
         "column": 1,
         "row": 3
@@ -34,7 +34,7 @@
 	{
 		"name" : "Complete Synchronization"
 		"prerequisites": "Connection of Consciousness",
-		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <when attacking>", "[+15]% Strength <when fighting in [Rough terrain] tiles> <when attacking>","[1] additional attacks per turn"],
+		"uniques": ["[+15]% Strength <when attacking>","[1] additional attacks per turn"],
 		"unitTypes": ["MultipurposeDecisiveCombatWeaponSystem"],
         "column": 1,
         "row": 4
