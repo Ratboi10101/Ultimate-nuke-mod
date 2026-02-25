@@ -2,11 +2,11 @@
 
 	{
 		"name": "Boosted Fission",
-		"uniques": ["Blast radius [3]"],
+		"uniques": ["Blast radius [3]"]
     },
 	{
-		"name" : "Generator Coolant Cable"
-		"uniques" : "[+50]% Strength decreasing with distance from the capital"
+		"name" : "Generator Coolant Cable",
+		"uniques" : ["[+50]% Strength decreasing with distance from the capital"]
 	},
 	{
 		"name": "Pilot Training I",
