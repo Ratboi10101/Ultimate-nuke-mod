@@ -43,7 +43,7 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "Hydrogen Bomb",
+		"name": "Thermonuclear Bomb",
 		"unitType": "Atomic Bomber",
 		"movement": 1,
 		"strength": 500,
