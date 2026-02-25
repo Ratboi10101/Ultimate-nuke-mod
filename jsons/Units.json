@@ -24,7 +24,7 @@
 		"promotions" : ["Evasion"],
 		"upgradesTo": "Boosted Atomic Bomb",
 		"uniques": ["Nuclear weapon of Strength [1]", "Only available <if [Manhattan Project] is constructed>", "Self-destructs when attacking",
-			"Blast radius [2]"],
+			"Blast radius [1]"],
 		"attackSound": "nuke"
 	},
 	{
@@ -39,7 +39,7 @@
 		"requiredResource": "Uranium",
 		"promotions" : ["Evasion"],
 		"uniques": ["Nuclear weapon of Strength [1]", "Only available <if [Operation Greenhouse] is constructed>", "Self-destructs when attacking",
-			"Blast radius [3]"],
+			"Blast radius [2]"],
 		"attackSound": "nuke"
 	},
 	{
@@ -52,7 +52,7 @@
 		"cost": 1250,
 		"requiredTech": "Nuclear Fusion",
 		"promotions": ["Evasion"],
-		"uniques": ["Nuclear weapon of Strength [3]", "Self-destructs when attacking", "Blast radius [3]", "Consumes [2] [Uranium]","Only available <if [Operation Ivy] is constructed>"],
+		"uniques": ["Nuclear weapon of Strength [2]", "Self-destructs when attacking", "Blast radius [3]", "Consumes [2] [Uranium]","Only available <if [Operation Ivy] is constructed>"],
 		"attackSound": "nuke"
 	},	
 	{
@@ -66,7 +66,7 @@
 		"cost": 1750,
 		"requiredTech": "Nuclear Fusion",
 		"promotions": ["Evasion"],
-		"uniques": ["Nuclear weapon of Strength [5]", "Self-destructs when attacking", "Blast radius [7]", "Consumes [4] [Uranium]","Only available <if [Operation Ivy] is constructed>"],
+		"uniques": ["Nuclear weapon of Strength [4]", "Self-destructs when attacking", "Blast radius [5]", "Consumes [4] [Uranium]","Only available <if [Operation Ivy] is constructed>"],
 		"attackSound": "nuke"
 	},
 	{
