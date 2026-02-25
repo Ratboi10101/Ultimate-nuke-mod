@@ -50,7 +50,7 @@
 	{
 		"name": "Energy Rifle",
 		"prerequisites": ["Pilot Training I"],
-		"uniques": ["[+3] Range"],
+		"uniques": ["[+2] Range"],
 		"unitTypes": ["MultipurposeDecisiveCombatWeaponSystem"],
         "column": 2,
         "row": 101
