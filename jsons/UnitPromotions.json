@@ -42,7 +42,7 @@
 	{
 		"name" : "Ascension"
 		"prerequisites": "Complete Synchronization",
-		"uniques": ["[This Unit] loses the [Generator Coolant Cable] promotion", "[+70]% Strength","All healing effects doubled","Withdraws before melee combat <with [99]% chance>"],
+		"uniques": ["[This Unit] loses the [Generator Coolant Cable] promotion", "[+70]% Strength","All healing effects doubled","Withdraws before melee combat <with [99]% chance>","Instantly provides [1] [Uranium]"],
 		"unitTypes": ["MultipurposeDecisiveCombatWeaponSystem"],
         "column": 1,
         "row": 4
