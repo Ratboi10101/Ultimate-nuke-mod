@@ -48,9 +48,9 @@
         "row": 104
 	},
 	{
-		"name": "Energy Rifle",
+		"name": "Anti-Material Blade",
 		"prerequisites": ["Pilot Training I"],
-		"uniques": ["[+2] Range"],
+		"uniques": ["[+25]% Strength <vs [Armor] units>"],
 		"unitTypes": ["MultipurposeDecisiveCombatWeaponSystem"],
         "column": 2,
         "row": 101
