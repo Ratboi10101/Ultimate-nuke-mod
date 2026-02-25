@@ -85,12 +85,13 @@
 	// Others
 	{
 		"name": "Unit-01 'The Salvator'",
-		"unitType": "Armored",
+		"unitType": "MultipurposeDecisiveCombatWeaponSystem",
 		"replaces": "Giant Death Robot",
 		"uniqueTo": "Japan",
 		"movement": 7,
 		"strength": 85,
-		"rangedStrength": 0,
+		"rangedStrength": 85,
+		"range" : 0,
 		"cost": 450,
 		"promotions" : ["March"],
 		"requiredTech": "Nuclear Fusion",
