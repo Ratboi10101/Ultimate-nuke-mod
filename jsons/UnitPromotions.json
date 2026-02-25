@@ -7,5 +7,19 @@
 	{
 		"name" : "Generator Coolant Cable"
 		"uniques" : "[+50]% Strength decreasing with distance from the capital"
+	},
+	{
+		"name": "Pilot Training I",
+		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <when attacking>", "[+15]% Strength <when fighting in [Rough terrain] tiles> <when attacking>"],
+		"unitTypes": ["Siege","Archery","Ranged Gunpowder"],
+        "column": 2,
+        "row": 1
+	},
+	{
+		"name": "Pilot Training II",
+		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <when attacking>", "[+15]% Strength <when fighting in [Rough terrain] tiles> <when attacking>"],
+		"unitTypes": ["Siege","Archery","Ranged Gunpowder"],
+        "column": 2,
+        "row": 2
 	}
 ]
