@@ -26,7 +26,7 @@
 	{
 		"name": "Connection of Consciousness",
 		"prerequisites": "Pilot Training II",
-		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <when attacking>", "[+15]% Strength <when fighting in [Rough terrain] tiles> <when attacking>"],
+		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <when attacking>", "[+15]% Strength <when fighting in [Rough terrain] tiles> <when attacking>","Withdraws before melee combat <with [50]% chance>"],
 		"unitTypes": ["MultipurposeDecisiveCombatWeaponSystem"],
         "column": 1,
         "row": 3
@@ -42,7 +42,7 @@
 	{
 		"name" : "Ascension"
 		"prerequisites": "Complete Synchronization",
-		"uniques": ["[This Unit] loses the [Generator Coolant Cable] promotion", "[+70]% Strength","All healing effects doubled"],
+		"uniques": ["[This Unit] loses the [Generator Coolant Cable] promotion", "[+70]% Strength","All healing effects doubled","Withdraws before melee combat <with [99]% chance>"],
 		"unitTypes": ["MultipurposeDecisiveCombatWeaponSystem"],
         "column": 1,
         "row": 4
