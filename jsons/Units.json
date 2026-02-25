@@ -87,16 +87,29 @@
 	},
 	#Others
 	{
-		"name": "GDR-1 'The Patriot'",
+		"name": "GDR-01 'The Patriot'",
 		"unitType": "Armored",
 		"replaces": "Giant Death Robot",
 		"uniqueTo": "America",
 		"movement": 5,
-		"strength": 165,
-		"cost": 425,
+		"strength": 175,
+		"cost": 550,
 		"requiredTech": "Nuclear Fusion",
 		"requiredResource": "Uranium",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus","[40]% chance to intercept air attacks"],
+		"attackSound": "gdrAttack"
+	},
+	{
+		"name": "GDR-02 'The Terminator'",
+		"unitType": "Armored",
+		"replaces": "Giant Death Robot",
+		"uniqueTo": "America",
+		"movement": 6,
+		"strength": 150,
+		"cost": 550,
+		"requiredTech": "Nuclear Fusion",
+		"requiredResource": "Uranium",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus",],
 		"attackSound": "gdrAttack"
 	}
 ]
