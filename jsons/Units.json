@@ -90,11 +90,12 @@
 		"uniqueTo": "Japan",
 		"movement": 7,
 		"strength": 85,
+		"rangedStrength": 0,
 		"cost": 450,
 		"promotions" : ["March"],
 		"requiredTech": "Nuclear Fusion",
 		"requiredResource": "Uranium",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus","[3] additional attacks per turn","[+30]% Strength decreasing with distance from the capital","Withdraws before melee combat <with [50]% chance>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus","[3] additional attacks per turn","Withdraws before melee combat <with [50]% chance>"],
 		"attackSound": "gdrAttack"
 	}
 ]
