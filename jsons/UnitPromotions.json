@@ -26,7 +26,9 @@
 	{
 		"name": "Connection of Consciousness",
 		"prerequisites": ["Pilot Training II"],
-		"uniques": ["[+15]% Strength <when attacking>","Withdraws before melee combat <with [50]% chance>"],
+		"uniques": ["[+15]% Strength <when attacking>",
+			"Withdraws before melee combat <with [50]% chance>",
+			"[+15]% Strength <when defending>"],
 		"unitTypes": ["MultipurposeDecisiveCombatWeaponSystem"],
         "column": 1,
         "row": 102
@@ -34,7 +36,9 @@
 	{
 		"name" : "Complete Synchronization"
 		"prerequisites": ["Connection of Consciousness"],
-		"uniques": ["[+15]% Strength <when attacking>","[1] additional attacks per turn"],
+		"uniques": ["[+15]% Strength <when attacking>",
+			"[1] additional attacks per turn",
+			"[+25]% Strength <when defending>"],
 		"unitTypes": ["MultipurposeDecisiveCombatWeaponSystem"],
         "column": 1,
         "row": 103
@@ -42,7 +46,10 @@
 	{
 		"name" : "Ascension"
 		"prerequisites": ["Complete Synchronization"],
-		"uniques": ["[This Unit] loses the [Generator Coolant Cable] promotion", "[+70]% Strength","All healing effects doubled","Withdraws before melee combat <with [99]% chance>"],
+		"uniques": ["[This Unit] loses the [Generator Coolant Cable] promotion",
+			"[+70]% Strength","All healing effects doubled",
+			"Withdraws before melee combat <with [99]% chance>",
+			"[+35]% Strength <when defending>"],
 		"unitTypes": ["MultipurposeDecisiveCombatWeaponSystem"],
         "column": 1,
         "row": 104
