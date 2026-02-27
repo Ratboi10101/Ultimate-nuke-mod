@@ -18,7 +18,8 @@
 	{
 		"name": "Pilot Training II",
 		"prerequisites": ["Pilot Training I"],
-		"uniques": ["[+5]% Strength <when attacking>"],
+		"uniques": ["[+5]% Strength <when attacking>",
+		"May attack when embarked"],
 		"unitTypes": ["MultipurposeDecisiveCombatWeaponSystem"],
         "column": 1,
         "row": 101
@@ -49,7 +50,9 @@
 		"uniques": ["[This Unit] loses the [Generator Coolant Cable] promotion",
 			"[+70]% Strength","All healing effects doubled",
 			"Withdraws before melee combat <with [99]% chance>",
-			"[+35]% Strength <when defending>"],
+			"[+35]% Strength <when defending>",
+			"May travel on Water tiles without embarking",
+			"[100]% chance to intercept air attacks"],
 		"unitTypes": ["MultipurposeDecisiveCombatWeaponSystem"],
         "column": 1,
         "row": 104
@@ -61,5 +64,13 @@
 		"unitTypes": ["MultipurposeDecisiveCombatWeaponSystem"],
         "column": 2,
         "row": 101
+	},
+	{
+		"name": "Long Range Anti-Material Cannon",
+		"prerequisites": ["Anti-Material Blade"],
+		"uniques": ["[+2] Range","[+10]% Strength <vs [Armor] units>"],
+		"unitTypes": ["MultipurposeDecisiveCombatWeaponSystem"],
+        "column": 2,
+        "row": 102
 	}
 ]
