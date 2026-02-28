@@ -29,7 +29,7 @@
       			{ "text": "Rebuild them and resume operations.",
 			  "uniques": [	"[-10 Happiness] [in all cities] <for [15] turns>",
                       		"[-3 Production] <in cities with a [Nuclear Plant]> <for [1] turns>",
-				  "Comment [Repair the Nuclear plant]",] }
+				  "Comment [Repair the Nuclear plant]"] }
       
      			{ "text": "Rebuild it, and to prevent future meltdown, install new and improved modules to all our power plants.",
 			  "uniques": [ 	"[-7 Happiness] [in all cities] <for [15] turns>",
@@ -46,7 +46,7 @@
 		    "text": "You have a bad feeling about this.",
 		    "choices": [
 			    {"text": "Something's wrong...",
-				"uniques": ["Triggers a [Explosion] event <upon turn end> <hidden from users>",
+				"uniques": ["Triggers a [Explosion] event <upon turn start> <hidden from users>",
 				"A [Reactor Explosion] rebels <hidden from users>"]}]
 	},
 	{
