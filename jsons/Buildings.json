@@ -145,7 +145,6 @@
 	  "requiredTech": "Nuclear Fusion"
   },
 	{
-		{
 		"name": "Nuclear Plant",
 		"production": 5,
 		"percentStatBonus": {"production": 15},
