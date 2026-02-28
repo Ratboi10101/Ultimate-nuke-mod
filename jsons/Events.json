@@ -1,7 +1,7 @@
 [
   {
-		"name": "Accident",
-		"text": "A.",
+		"name": "Incident",
+		"text": "Loud alarms echo through the power plant as engineers report abnormal radiation readings. Although no catastrophic breach has occurred because of automatic safety system, ",
 		"choices": [
 			{ "text": "It is an omen!",
 			  "uniques": [	"Gain [10]-[25] [Faith]",
