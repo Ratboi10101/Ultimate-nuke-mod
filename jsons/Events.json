@@ -54,7 +54,7 @@
 		    "text": "The worst case scenario happened. A sudden and catastrophic explosion has devastated a facility. Nuclear plant and many other buildings are destroyed, damaged or contaminated. The power generation has collapsed, just like the trust to nuclear power did. ",
 		    "choices": [
 			    {"text": "Nuclear power is too dangerous to handle. Dismantle them.",
-			  "uniques": [	"[-25 Happiness] [in all cities] <for [20] turns>",
+			  "uniques": [	"[-35 Happiness] [in all cities] <for [20] turns>",
 				  "[-3] population [in this city]",
 				  "Remove [Nuclear Plant] [in all cities]",
 				  "[-100]% Production when constructing [Nuclear Plant] buildings [in all cities] <for [50] turns>"] }
