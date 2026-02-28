@@ -124,17 +124,5 @@
 		"requiredResource": "Uranium",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus","[2] additional attacks per turn","Withdraws before melee combat <with [30]% chance>","[-40]% XP gained from combat","May heal outside of friendly territory","Heals [5] damage if it kills a unit"],
 		"attackSound": "gdrAttack"
-	},
-	{
-		"name": "Reactor Explosion",
-		"unitType": "Gunpowder",
-		"movement": 1,
-		"strength": 999,
-		"rangedStrength": 999,
-		"cost": 1,
-		"range": 2,
-		"promotions" : ["Evasion"],
-		"uniques": ["Nuclear weapon of Strength [1]", "Self-destructs when attacking",
-			"Blast radius [1]","Unbuildable"],
 	}
 ]
