@@ -47,13 +47,13 @@
 		    "choices": [
 			    {"text": "Nuclear power is too dangerous to handle. Dismantle them.",
 			  "uniques": [	"[-35 Happiness] [in all cities] <for [20] turns>",
-				  "[-3] population [in this city]",
+				  "[-10] population [in this city]",
 				  "Remove [Nuclear Plant] [in all cities]",
 				  "[-100]% Production when constructing [Nuclear Plant] buildings [in all cities] <for [50] turns>"] }
       
       			{ "text": "Begin the controled reconstruction.",
 			  "uniques": [	"[-50 Happiness] [in all cities] <for [20] turns>",
-				  "[-3] population [in this city]",
+				  "[-10] population [in this city]",
 				  "Remove [Nuclear Plant] [in this city]"] } ]
 	}
 ]
