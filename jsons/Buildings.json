@@ -159,6 +159,6 @@
 	},
 	{
 		"name": "Improved Reactors and Safety Systems",
-		"uniques": ["Unbuildable"]
+		"uniques": ["Unbuildable","Cannot be purchased"]
 	}
 ]
