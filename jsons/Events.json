@@ -40,14 +40,6 @@
 				  "Gain a free [Improved Reactors and Safety Systems] [in all cities]",
 				  "Unavailable <if [Improved Reactors and Safety Systems] is constructed>"] } ]
 	
-	}
-	{
-		    "name": "Bad feeling",
-		    "text": "You have a bad feeling about this.",
-		    "choices": [
-			    {"text": "Something's wrong...",
-				"uniques": ["Triggers a [Explosion] event <upon turn start> <hidden from users>",
-				"A [Reactor Explosion] rebels <hidden from users>"]}]
 	},
 	{
 		    "name": "Explosion",
