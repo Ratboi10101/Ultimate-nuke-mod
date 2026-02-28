@@ -132,9 +132,9 @@
 		"strength": 999,
 		"rangedStrength": 999,
 		"cost": 1,
-		"range": 1,
+		"range": 2,
 		"promotions" : ["Evasion"],
 		"uniques": ["Nuclear weapon of Strength [1]", "Self-destructs when attacking",
-			"Blast radius [0]","Invisible to others","Unbuildable","Cannot be purchased"],
+			"Blast radius [1]","Invisible to others","Unbuildable"],
 	}
 ]
