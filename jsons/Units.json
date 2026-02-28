@@ -127,7 +127,7 @@
 	},
 	{
 		"name": "Reactor Explosion",
-		"unitType": "Atomic Bomber",
+		"unitType": "Gunpowder",
 		"movement": 1,
 		"strength": 999,
 		"rangedStrength": 999,
@@ -135,6 +135,6 @@
 		"range": 2,
 		"promotions" : ["Evasion"],
 		"uniques": ["Nuclear weapon of Strength [1]", "Self-destructs when attacking",
-			"Blast radius [1]","Invisible to others","Unbuildable"],
+			"Blast radius [1]","Unbuildable"],
 	}
 ]
