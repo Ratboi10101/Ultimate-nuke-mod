@@ -3,7 +3,7 @@
 		"name": "Incident",
 		"text": "Loud alarms echo through the complex as engineers report abnormal radiation readings. Although no catastrophic breach has occurred because of automatic safety system, the news has already unsettled the nearby populations. The public demand answers. Industry leaders demands continuity. Camera strobe flashes. You have to choose.",
 		"choices": [
-			{ "text": "No need to worry, everything is under control.",
+			{"text": "No need to worry, everything is under control.",
 			  "uniques": [	"[-3 Happiness] [in all cities] <for [6] turns>"] }
       
       			{ "text": "We will shut down the reactors for maintenance and repair.",
@@ -19,11 +19,49 @@
   },
   {
 		    "name": "Meltdown",
-		    "text": "A comet was sighted in the sky. Some people in the past believed that this portents fell times ahead. Others used to believe that they are in fact pixie fairies floating in the sky. Such primitive ways of thinking, it's almost embarassing that our ancestors used to believe in such nonsensical rubbish like that.",
+		    "text": "Catastrophic failure has occurred. The reactor lost control, melting the facility and emitting radiation to massive area. Evacuations are underway. Trust in nuclear power has collapsed overnight.",
 		    "choices": [
-			    {"text": "Thank God we live in such enlightened times.",
-			     "uniques": ["Gain [175]-[275] [Faith]",
-							 "[+2 Happiness] [in all cities] <for [5] turns>"] } ]
+			    {"text": "Nuclear power is too dangerous to handle. Dismantle them.",
+			  "uniques": [	"[-5 Happiness] [in all cities] <for [15] turns>",
+				  "Remove [Nuclear Plant] [in all cities]",
+				  "[-100]% Production when constructing [Nuclear Plant] buildings [in all cities] <for [30] turns>"] }
+      
+      			{ "text": "Rebuild them and resume operations.",
+			  "uniques": [	"[-10 Happiness] [in all cities] <for [15] turns>",
+                      		"[-3 Production] <in cities with a [Nuclear Plant]> <for [1] turns>",
+				  "Comment [Repair the Nuclear plant]",] }
+      
+     			{ "text": "Rebuild it, and to prevent future meltdown, install new and improved modules to all our power plants.",
+			  "uniques": [ 	"[-7 Happiness] [in all cities] <for [15] turns>",
+				  "[-3 Production] <in cities with a [Nuclear Plant]> <for [1] turns>",
+				  "Comment [Repair the Nuclear plant]",
+				  "Comment [Lose 1000 [Gold] to install new modules]",
+				  "Gain [-1000] [Gold] <hidden from users>",
+				  "Gain a free [Improved Reactors and Safety Systems] [in all cities]",
+				  "Unavailable <if [Improved Reactors and Safety Systems] is constructed>"] } ]
 	
+	}
+	{
+		    "name": "Bad feeling",
+		    "text": "You have a bad feeling about this.",
+		    "choices": [
+			    {"text": "Something's wrong...",
+				"uniques": ["Triggers a [Explosion] event <upon turn end> <hidden from users>",
+				"A [Reactor Explosion] rebels <hidden from users>"]}]
+	},
+	{
+		    "name": "Explosion",
+		    "text": "The worst case scenario happened. A sudden and catastrophic explosion has devastated a facility. Nuclear plant and many other buildings are destroyed, damaged or contaminated. The power generation has collapsed, just like the trust to nuclear power did. ",
+		    "choices": [
+			    {"text": "Nuclear power is too dangerous to handle. Dismantle them.",
+			  "uniques": [	"[-25 Happiness] [in all cities] <for [20] turns>",
+				  "[-3] population [in this city]",
+				  "Remove [Nuclear Plant] [in all cities]",
+				  "[-100]% Production when constructing [Nuclear Plant] buildings [in all cities] <for [50] turns>"] }
+      
+      			{ "text": "Begin the controled reconstruction.",
+			  "uniques": [	"[-50 Happiness] [in all cities] <for [20] turns>",
+				  "[-3] population [in this city]",
+				  "Remove [Nuclear Plant] [in this city]",] } ]
 	}
 ]
