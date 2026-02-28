@@ -143,5 +143,16 @@
 	  "uniques": ["Triggers a global alert upon completion", "Only available <with [Uranium]>"],
 	  "requiredBuilding": "Operation Ivy",
 	  "requiredTech": "Nuclear Fusion"
-  }
+  },
+	{
+		{
+		"name": "Nuclear Plant",
+		"production": 5,
+		"percentStatBonus": {"production": 15},
+		"requiredBuilding": "Factory",
+		"maintenance": 3,
+		"requiredResource": "Uranium",
+		"requiredTech": "Nuclear Fission",
+		"uniques": ["Only available <in cities without a [Solar Plant]>","Triggers a [Meltdown] event <upon turn end> <with [1]% chance> <before the [Future era]>"]
+	},
 ]
