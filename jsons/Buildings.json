@@ -156,5 +156,9 @@
 		"uniques": ["Only available <in cities without a [Solar Plant]>",
 			"Triggers a [Incident] event <upon turn end> <with [3]% chance>",
 			"Triggers a [Meltdown] event <upon turn end> <with [1]% chance>"]
+	},
+	{
+		"name": "Improved Reactors and Safety Systems",
+		"uniques": ["Unbuildable"]
 	}
 ]
