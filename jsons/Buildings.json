@@ -154,7 +154,7 @@
 		"requiredResource": "Uranium",
 		"requiredTech": "Nuclear Fission",
 		"uniques": ["Only available <in cities without a [Solar Plant]>",
-			"Triggers a [Accident] event <upon turn end> <with [3]% chance>",
+			"Triggers a [Incident] event <upon turn end> <with [3]% chance>",
 			"Triggers a [Meltdown] event <upon turn end> <with [1]% chance>"]
 	}
 ]
