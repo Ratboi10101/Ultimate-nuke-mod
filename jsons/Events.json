@@ -62,6 +62,6 @@
       			{ "text": "Begin the controled reconstruction.",
 			  "uniques": [	"[-50 Happiness] [in all cities] <for [20] turns>",
 				  "[-3] population [in this city]",
-				  "Remove [Nuclear Plant] [in this city]",] } ]
+				  "Remove [Nuclear Plant] [in this city]"] } ]
 	}
 ]
