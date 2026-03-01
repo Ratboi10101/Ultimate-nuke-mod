@@ -26,13 +26,13 @@
 				  "Remove [Nuclear Plant] [in all cities]",
 				  "[-100]% Production when constructing [Nuclear Plant] buildings [in all cities] <for [30] turns>"] }
       
-      			{ "text": "Rebuild them and resume operations.",
-			  "uniques": [	"[-10 Happiness] [in all cities] <for [15] turns>",
+      			{ "text": "Repair them and resume operations.",
+			  "uniques": [	"[-7 Happiness] [in all cities] <for [15] turns>",
                       		"[-3 Production] <in cities with a [Nuclear Plant]> <for [1] turns>",
 				  "Comment [Repair the Nuclear plant]"] }
       
-     			{ "text": "Rebuild it, and to prevent future meltdown, install new and improved modules to all our power plants.",
-			  "uniques": [ 	"[-7 Happiness] [in all cities] <for [15] turns>",
+     			{ "text": "Repair it, and to prevent future meltdown, install new and improved modules to all our power plants.",
+			  "uniques": [ 	"[-6 Happiness] [in all cities] <for [15] turns>",
 				  "[-3 Production] <in cities with a [Nuclear Plant]> <for [1] turns>",
 				  "Comment [Repair the Nuclear plant]",
 				  "Comment [Lose 1000 [Gold] to install new modules]",
@@ -46,14 +46,16 @@
 		    "text": "The worst case scenario happened. A sudden and catastrophic explosion has devastated a facility. Nuclear plant and many other buildings are destroyed, damaged or contaminated. The power generation has collapsed, just like the trust to nuclear power did. ",
 		    "choices": [
 			    {"text": "Nuclear power is too dangerous to handle. Dismantle them.",
-			  "uniques": [	"[-35 Happiness] [in all cities] <for [20] turns>",
+			  "uniques": [	"[-15 Happiness] [in all cities] <for [20] turns>",
 				  "[-10] population [in this city]",
 				  "Remove [Nuclear Plant] [in all cities]",
 				  "[-100]% Production when constructing [Nuclear Plant] buildings [in all cities] <for [50] turns>"] }
       
       			{ "text": "Begin the controled reconstruction.",
-			  "uniques": [	"[-50 Happiness] [in all cities] <for [20] turns>",
+			  "uniques": [	"[-20 Happiness] [in all cities] <for [20] turns>",
 				  "[-10] population [in this city]",
-				  "Remove [Nuclear Plant] [in this city]"] } ]
+				  "Remove [Nuclear Plant] [in this city]",
+				  "[+10]% Production when constructing [Nuclear Plant] buildings [in all cities] <for [10] turns>",
+				  "Gain a free [Improved Reactors and Safety Systems] [in all cities]"] } ]
 	}
 ]
