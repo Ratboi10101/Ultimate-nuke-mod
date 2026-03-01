@@ -152,8 +152,7 @@
 		"maintenance": 3,
 		"requiredResource": "Uranium",
 		"requiredTech": "Nuclear Fission",
-		"uniques": ["Only available <in cities without a [Solar Plant]>",
-			"Triggers a [Incident] event <upon turn end> <with [3]% chance> <if [Improved Reactors and Safety Systems] is not constructed>",
+		"uniques": ["Triggers a [Incident] event <upon turn end> <with [3]% chance> <if [Improved Reactors and Safety Systems] is not constructed>",
 			"Triggers a [Meltdown] event <upon turn end> <with [2]% chance> <if [Improved Reactors and Safety Systems] is not constructed>",
 			"Triggers a [Explosion] event <with [1]% chance> <if [Improved Reactors and Safety Systems] is not constructed>",
 			"Triggers a [Incident] event <upon turn end> <with [1]% chance> <if [Improved Reactors and Safety Systems] is constructed>",
@@ -161,6 +160,17 @@
 	},
 	{
 		"name": "Improved Reactors and Safety Systems",
+		"maintenance": 2,
 		"uniques": ["Unbuildable","Cannot be purchased"]
-	}
+	},
+	{
+		"name": "Solar Plant",
+		"production": 2,
+		"percentStatBonus": {"production": 5},
+		"requiredBuilding": "Factory",
+		"maintenance": 3,
+		"requiredTech": "Ecology",
+		"uniques": ["[+2 Production] <in [Desert] tiles>","[+2 Production] <in [Elevated] tiles>",
+		"[+10]% [Production] <in [Desert] tiles>","[+10]% [Production] <in [Elevated] tiles>"]
+	},
 ]
