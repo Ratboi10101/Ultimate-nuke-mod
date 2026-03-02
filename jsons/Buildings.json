@@ -140,7 +140,7 @@
 	  "cost": 1000,
 	  "isNationalWonder": true,
 	  "science": 1,
-	  "uniques": ["Triggers a global alert upon completion", "Only available <with [Uranium]>"],
+	  "uniques": ["Triggers a global alert upon completion", "Only available <with [Uranium]>", "Free ['The Apocalypse'] appears"],
 	  "requiredBuilding": "Operation Ivy",
 	  "requiredTech": "Nuclear Fusion"
   },
