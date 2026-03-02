@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Nuclear Race",
+        "victoryScreenHeader": "Complete all nuclear weapon related projects, and construct the Project Sundial to win!",
+        "milestones": ["Build [Project Sundial]"],
+        "victoryString": "You have created an ultimate weapon. A bomb that can instantly destroy everything. You have silenced everyone with your massive force. You have won. ...Yet, you know. The day will eventually come. You have won the race, but that don't end the race.",
+        "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+    }
+]
