@@ -107,22 +107,6 @@
 		"promotions": ["Evasion"],
 		"uniques": ["Nuclear weapon of Strength [10]", "Only available <if [Project Sundial] is constructed>", "Only available <if [Operation Ivy] is constructed>", "Self-destructs when attacking", "Blast radius [500]", "Consumes [12] [Uranium]", "Cannot be purchased", "Uncaptureable","Unbuildable","Triggers a global alert upon completion"],
 		"attackSound": "nuke"
-	},
-	// Others
-	{
-		"name": "Unit-01 'The Salvator'",
-		"unitType": "MultipurposeDecisiveCombatWeaponSystem",
-		"replaces": "Giant Death Robot",
-		"uniqueTo": "Japan",
-		"movement": 7,
-		"strength": 95,
-		"range" : 1,
-		"rangedStrength": 80,
-		"cost": 525,
-		"promotions" : ["March"],
-		"requiredTech": "Nuclear Fusion",
-		"requiredResource": "Uranium",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus","[2] additional attacks per turn","Withdraws before melee combat <with [30]% chance>","[-40]% XP gained from combat","May heal outside of friendly territory","Heals [5] damage if it kills a unit"],
-		"attackSound": "gdrAttack"
 	}
+	// Others
 ]
