@@ -14,7 +14,8 @@
           "Can see over obstacles",
           "Invisible to non-adjacent units",
           "All tiles cost 1 movement",
-          "May enter foreign tiles without open borders"]
+          "May enter foreign tiles without open borders",
+          "May travel on Water tiles without embarking"]
     },
   {
         "name": "Missile",
