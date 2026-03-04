@@ -129,6 +129,7 @@
 		"uniques": ["Consumes [1] [Aluminum]","Never appears as a Barbarian unit",
 			"Nuclear weapon of Strength [1]", "Blast radius [0]"],
 		"requiredTech": "Satellites",
+		"attackSound": "nuke"
 	},
 	// Others
 ]
