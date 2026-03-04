@@ -17,7 +17,8 @@
 		  "Only available <with [Uranium]>",
 		  "Only available <if [Uranium Enrichment Facility] is constructed>",
 		  "Gain a free [Uranium Enrichment Facility] [in this city]",
-		  "Triggers a [Are we sure...?] event <upon constructing [Manhattan Project]>"],
+		  "Triggers a [Chain reaction] event <upon constructing [Manhattan Project]> <if [Manhattan Project] is not constructed by anybody>",
+		  "Triggers a [Are we sure...?] event <upon constructing [Manhattan Project]> <if [Manhattan Project] is constructed by anybody>"],
 	  "requiredBuilding": "Factory",
 	  "requiredTech": "Atomic Theory"
   },
