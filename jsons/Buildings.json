@@ -152,7 +152,7 @@
 		"maintenance": 5,
 		"requiredResource": "Uranium",
 		"requiredTech": "Nuclear Fission",
-		"uniques": ["Only available <in cities without a [Nuclear Fusion Plant]>","Comment [Small chance of incident and meltdown]","Triggers a [Incident] event <upon turn end> <with [3]% chance> <if [Improved Reactors and Safety Systems] is not constructed><hidden from users>",
+		"uniques": ["Only available <in cities without a [Nuclear Fusion Plant]><hidden from users>","Comment [Small chance of incident and meltdown]","Triggers a [Incident] event <upon turn end> <with [3]% chance> <if [Improved Reactors and Safety Systems] is not constructed><hidden from users>",
 			"Triggers a [Meltdown] event <upon turn end> <with [2]% chance> <if [Improved Reactors and Safety Systems] is not constructed><hidden from users>",
 			"Triggers a [Explosion] event <with [1]% chance> <if [Improved Reactors and Safety Systems] is not constructed><hidden from users>",
 			"Triggers a [Incident] event <upon turn end> <with [1]% chance> <if [Improved Reactors and Safety Systems] is constructed><hidden from users>",
