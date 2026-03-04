@@ -15,5 +15,10 @@
           "Invisible to non-adjacent units",
           "All tiles cost 1 movement",
           "May enter foreign tiles without open borders"]
-    }
+    },
+  {
+        "name": "Missile",
+        "movementType": "Air",
+        "uniques": ["Self-destructs when attacking", "Can see invisible [Satellite] units", "Cannot be intercepted"]
+    },
 ]
