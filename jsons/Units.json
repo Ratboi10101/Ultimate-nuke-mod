@@ -112,7 +112,7 @@
 		"name": "Spy Satellite",
 		"unitType": "Civilian",
 		"movement": 325,
-		"uniques": [],
+		"uniques": ["Consumes [1] [Aluminum]", "All tiles cost 1 movement", "Ignores Zone of Control", "Never appears as a Barbarian unit"],
 		"requiredTech": "Satellites",
 	},
 	// Others
