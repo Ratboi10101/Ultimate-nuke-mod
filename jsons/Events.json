@@ -1,4 +1,22 @@
 [
+	{
+		"name": "Are we sure...?",
+		"text": "The bright flash engulf the sight, followed by rumbring and strong shockwave. You did it. Your country has created a bomb that can end war forever.",
+		"choices": [
+			{"text": "No need to worry, everything is under control.",
+			  "uniques": [	"[-3 Happiness] [in all cities] <for [6] turns>"] }
+      
+      			{ "text": "We will shut down the reactors for maintenance and repair.",
+			  "uniques": [	"[-2 Happiness] [in all cities] <for [5] turns>",
+                      		"[-5 Production] <in cities with a [Nuclear Plant]> <for [5] turns>" ] }
+      
+     			{ "text": "To prevent future meltdown, we will install new and improved modules to power plants.",
+			  "uniques": [ 	"[-2 Happiness] [in all cities] <for [5] turns>",
+                            "Comment [Lose 1000 [Gold]]",
+				  "Gain [-1000] [Gold] <hidden from users>",
+				  "Gain a free [Improved Reactors and Safety Systems] [in all cities]",
+				  "Unavailable <if [Improved Reactors and Safety Systems] is constructed>"] } ]
+  },
   {
 		"name": "Incident",
 		"text": "Loud alarms echo through the complex as engineers report abnormal radiation readings. Although no catastrophic breach has occurred because of automatic safety system, the news has already unsettled the nearby populations. The public demand answers. Industry leaders demands continuity. Camera strobe flashes. You have to choose.",
