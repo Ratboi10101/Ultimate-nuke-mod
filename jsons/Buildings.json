@@ -5,7 +5,7 @@
 		"cost": 370,
 		"isNationalWonder": true,
 		"maintenance": 2,
-		"uniques": ["Only available <with [Uranium]>"],
+		"uniques": ["[+20]% [Uranium] resource production","Only available <with [Uranium]>"],
 		"requiredBuilding": "Factory",
 		"requiredTech": "Atomic Theory"
 	},
@@ -177,7 +177,7 @@
 		"name": "Nuclear Fusion Plant",
 		"production": 10,
 		"percentStatBonus": {"production": 15},
-		"requiredBuilding": "Factory",
+		"requiredBuilding": "Uranium Enrichment Facility",
 		"maintenance": 7,
 		"requiredResource": "Uranium",
 		"requiredTech": "Nuclear Fusion",
