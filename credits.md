@@ -3,5 +3,5 @@ All the following are from [the Noun Project](https://thenounproject.com) licenc
 ## Icon images
 <a href="https://thenounproject.com/icon/nuclear-blast-8002407/">Nuclear Blast</a> by kareemov for Hydrogen Bomb<br>
 
-<a href="https://thenounproject.com/browse/icons/term/explosion/">
+<a href="https://thenounproject.com/icon/explosion-6261916/">
 explosion</a> by Luiz Carvalho for Boosted Atomic Bomb
