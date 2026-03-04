@@ -13,6 +13,7 @@
           "Ignores Zone of Control",
           "Can see over obstacles",
           "Invisible to non-adjacent units",
-          "All tiles cost 1 movement"]
+          "All tiles cost 1 movement",
+          "May enter foreign tiles without open borders"]
     }
 ]
