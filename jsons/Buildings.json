@@ -13,7 +13,9 @@
 	  "cost": 740,
 	  "isNationalWonder": true,
 	  "culture": 1,
-	  "uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion", "Only available <with [Uranium]>","Gain a free [Uranium Enrichment Facility] [in all cities]"],
+	  "uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion",
+		  "Only available <with [Uranium]>","Gain a free [Uranium Enrichment Facility] [in all cities]",
+		  "Triggers a [Are we sure...?] event"],
 	  "requiredBuilding": "Uranium Enrichment Facility",
 	  "requiredTech": "Atomic Theory"
   },
