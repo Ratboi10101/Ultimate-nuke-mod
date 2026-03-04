@@ -111,9 +111,10 @@
 	{
 		"name": "Observation Satellite",
 		"unitType": "Satellite",
-		"movement": 400,
+		"movement": 10,
+		"cost": 400,
 		"uniques": ["Consumes [1] [Aluminum]","Never appears as a Barbarian unit",
-			"Can see invisible [Satellite] units","[10] Movement","[5] Sight"],
+			"Can see invisible [Satellite] units","[5] Sight"],
 		"requiredTech": "Satellites",
 	},
 	// Others
