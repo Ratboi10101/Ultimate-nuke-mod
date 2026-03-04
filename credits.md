@@ -13,4 +13,4 @@ href="https://thenounproject.com/icon/bomb-6903171/">Bomb</a> by swk for MOAB
 href="https://thenounproject.com/icon/satellite-8141874/">Satellite</a> by Azland Studio for Observation Satellite
 
 <a
-href="https://thenounproject.com/icon/satellite-7541794/">Satellite</a> by Firza Alamsyah for 'God's Rod'
+href="https://thenounproject.com/icon/satellite-7541794/">Satellite</a> by Firza Alamsyah and <a href="https://thenounproject.com/icon/spear-8305037/">Spear</a> by Studio Danro for 'God's Rod'
