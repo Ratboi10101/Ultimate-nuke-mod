@@ -3,4 +3,15 @@
         "name": "MultipurposeDecisiveCombatWeaponSystem",
         "movementType": "Land"
     },
+  {
+        "name": "Satellite",
+        "movementType": "Land",
+        "uniques": ["Can pass through impassable tiles",
+          "[+200]% Strength <vs [non-[{Satellite} {Air}]] units>",
+          "[+50]% Strength <vs [non-[Satellite]] units>",
+          "Withdraws before melee combat",
+          "Ignores Zone of Control",
+          "Can see over obstacles",
+          "Invisible to non-adjacent units"]
+    },
 ]
