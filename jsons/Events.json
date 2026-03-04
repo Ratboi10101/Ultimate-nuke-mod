@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Are we sure...?",
-		"text": "The bright flash engulf the sight, followed by rumbring and strong shockwave. You did it. Your country has created a bomb that can end war forever.",
+		"text": "The bright flash engulf the sight, followed by rumbring and strong shockwave. You did it. Your country has created a bomb that can end wars forever, once for all.",
 		"choices": [
 			{"text": "No need to worry, everything is under control.",
 			  "uniques": [	"[-3 Happiness] [in all cities] <for [6] turns>"] }
