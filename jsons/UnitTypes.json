@@ -12,6 +12,7 @@
           "Withdraws before melee combat",
           "Ignores Zone of Control",
           "Can see over obstacles",
-          "Invisible to non-adjacent units"]
-    },
+          "Invisible to non-adjacent units",
+          "All tiles cost 1 movement"]
+    }
 ]
