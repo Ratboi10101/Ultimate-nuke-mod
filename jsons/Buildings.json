@@ -3,9 +3,8 @@
 		"name": "Uranium Enrichment Facility"
 		"requiredTech": "Atomic Theory",
 		"cost": 370,
-		"isNationalWonder": true,
 		"maintenance": 2,
-		"uniques": ["[+20]% [Uranium] resource production","Only available <with [Uranium]>"],
+		"uniques": ["Unavailable <when nuclear weapons are disabled>", "[+20]% [Uranium] resource production <in this city>", "Only available <with [Uranium]>"],
 		"requiredBuilding": "Factory",
 		"requiredTech": "Atomic Theory"
 	},
@@ -14,7 +13,7 @@
 	  "cost": 740,
 	  "isNationalWonder": true,
 	  "culture": 1,
-	  "uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion", "Only available <with [Uranium]>"],
+	  "uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion", "Only available <with [Uranium]>","Gain a free [Uranium Enrichment Facility] [in all cities]"],
 	  "requiredBuilding": "Uranium Enrichment Facility",
 	  "requiredTech": "Atomic Theory"
   },
