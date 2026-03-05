@@ -1,21 +1,15 @@
 [
 	{
 		"name": "Chain Reaction",
-		"text": "The bright flash engulf the sight, followed by rumbring and strong shockwave. You did it. Your country has created a bomb that can end wars forever, once for all.",
+		"text": "The bright flash engulf the sight, followed by rumbring and strong shockwave. You did it. Your country has created a bomb that can end all wars forever, once for all. Yet, you have a feeling. Feeling that you have triggered a chain reaction that can destroy the entire world.",
 		"choices": [
-			{"text": "No need to worry, everything is under control.",
-			  "uniques": [	"[-3 Happiness] [in all cities] <for [6] turns>"] }
+			{"text": "Nuclear weapons are necessary for us to survive.",
+			  "uniques": ["[-1 Happiness] [in this city] <for [3] turns>", "Free [Atomic Bomb] appears"] }
       
-      			{ "text": "We will shut down the reactors for maintenance and repair.",
-			  "uniques": [	"[-2 Happiness] [in all cities] <for [5] turns>",
-                      		"[-5 Production] <in cities with a [Nuclear Plant]> <for [5] turns>" ] }
-      
-     			{ "text": "To prevent future meltdown, we will install new and improved modules to power plants.",
-			  "uniques": [ 	"[-2 Happiness] [in all cities] <for [5] turns>",
-                            "Comment [Lose 1000 [Gold]]",
-				  "Gain [-1000] [Gold] <hidden from users>",
-				  "Gain a free [Improved Reactors and Safety Systems] [in all cities]",
-				  "Unavailable <if [Improved Reactors and Safety Systems] is constructed>"] } ]
+      			{ "text": "Nuclear  bombs are unnecessary for humanity.",
+			  "uniques": ["[+2 Happiness] [in all cities] <for [5] turns>","Remove [Manhattan Project] [in this city]",
+				  "[-400]% Production when constructing [Manhattan Project] buildings [in all cities] <for [5] turns>",
+				  "[+300]% Production when constructing [Manhattan Project] buildings [in all cities] <for [50] turns>"] } ]
   },
   {
 		"name": "Incident",
