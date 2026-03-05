@@ -7,7 +7,7 @@
 		"uniques": ["Unavailable <when nuclear weapons are disabled>", 
 			"[+20]% [Uranium] resource production <in this city>", 
 			"Only available <with [Uranium]>",
-			"Triggers a [Chain reaction] event <upon constructing [Manhattan Project]> <if [Manhattan Project] is constructed by anybody>"],
+			"Triggers a [Chain Reaction] event <upon constructing [Manhattan Project]> <if [Manhattan Project] is constructed by anybody>"],
 		"requiredBuilding": "Factory",
 		"requiredTech": "Atomic Theory"
 	},
