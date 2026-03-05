@@ -115,7 +115,7 @@
 		"movement": 6,
 		"cost": 400,
 		"uniques": ["Consumes [1] [Aluminum]","Never appears as a Barbarian unit",
-			"Can see invisible [Satellite] units","[4] Sight"],
+			"Can see invisible [Satellite] units","Only available <if [Spaceship Factory] is constructed>","[4] Sight"],
 		"requiredTech": "Satellites",
 	},
 	{
@@ -127,7 +127,7 @@
 		"range": 2,
 		"cost": 1000,
 		"uniques": ["Consumes [1] [Aluminum]","Never appears as a Barbarian unit",
-			"Nuclear weapon of Strength [1]", "Blast radius [0]"],
+			"Nuclear weapon of Strength [1]", "Blast radius [0]","Only available <if [Spaceship Factory] is constructed>"],
 		"requiredTech": "Satellites",
 		"attackSound": "nuke"
 	},
