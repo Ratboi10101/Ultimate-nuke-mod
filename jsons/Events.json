@@ -7,7 +7,7 @@
 			  "uniques": ["[-1 Happiness] [in this city] <for [3] turns>", "Free [Atomic Bomb] appears"] }
       
       			{ "text": "Nuclear  bombs are unnecessary for humanity.",
-			  "uniques": ["[+2 Happiness] [in all cities] <for [5] turns>","Remove [Manhattan Project] [in this city]",
+			  "uniques": ["[+2 Happiness] [in all cities] <for [5] turns>","Remove [Manhattan Project] [in all cities]",
 				  "[-400]% Production when constructing [Manhattan Project] buildings [in all cities] <for [5] turns>",
 				  "[+300]% Production when constructing [Manhattan Project] buildings [in all cities] <for [50] turns>"] } ]
   },
