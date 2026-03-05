@@ -76,7 +76,7 @@
 		"strength": 500,
 		"rangedStrength": 500,
 		"range": 14,
-		"cost": 1000,
+		"cost": 1450,
 		"requiredTech": "Advanced Ballistics",
 		"uniques": ["Nuclear weapon of Strength [2]", "Only available <if [Operation Ivy] is constructed>",
 			"Blast radius [3]", "Consumes [2] [Uranium]"],
@@ -93,7 +93,7 @@
 		"cost": 1750,
 		"requiredTech": "Nuclear Fusion",
 		"promotions": ["Evasion"],
-		"uniques": ["Nuclear weapon of Strength [4]", "Self-destructs when attacking", "Blast radius [5]", "Consumes [4] [Uranium]","Only available <if [Operation Ivy] is constructed>"],
+		"uniques": ["Nuclear weapon of Strength [4]", "Self-destructs when attacking", "Blast radius [5]", "Consumes [3] [Uranium]","Only available <if [Operation Ivy] is constructed>"],
 		"attackSound": "nuke"
 	},
 	{
