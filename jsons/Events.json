@@ -1,24 +1,6 @@
 [
 	{
-		"name": "Chain reaction",
-		"text": "A small ammount of physicists have raised a theory. A theory about possibility of catastrophic event: the ignition of the atomsphere. Possibility was very low, but not zero.",
-		"choices": [
-			{"text": ".",
-			  "uniques": [	"[-3 Happiness] [in all cities] <for [6] turns>"] }
-      
-      			{ "text": "We will shut down the reactors for maintenance and repair.",
-			  "uniques": [	"[-2 Happiness] [in all cities] <for [5] turns>",
-                      		"[-5 Production] <in cities with a [Nuclear Plant]> <for [5] turns>" ] }
-      
-     			{ "text": "To prevent future meltdown, we will install new and improved modules to power plants.",
-			  "uniques": [ 	"[-2 Happiness] [in all cities] <for [5] turns>",
-                            "Comment [Lose 1000 [Gold]]",
-				  "Gain [-1000] [Gold] <hidden from users>",
-				  "Gain a free [Improved Reactors and Safety Systems] [in all cities]",
-				  "Unavailable <if [Improved Reactors and Safety Systems] is constructed>"] } ]
-  },
-	{
-		"name": "Are we sure...?",
+		"name": "Chain Reaction",
 		"text": "The bright flash engulf the sight, followed by rumbring and strong shockwave. You did it. Your country has created a bomb that can end wars forever, once for all.",
 		"choices": [
 			{"text": "No need to worry, everything is under control.",
