@@ -11,7 +11,7 @@ UnitIcons/MOAB
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Hydrogen Bomb
+UnitIcons/Thermonuclear Bomb
   rotate: false
   xy: 100, 0
   size: 100, 100
