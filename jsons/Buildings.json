@@ -185,8 +185,10 @@
 		"requiredBuilding": "Uranium Enrichment Facility",
 		"maintenance": 7,
 		"requiredResource": "Uranium",
-		"requiredTech": "Nuclear Fusion",
-		"uniques": ["Comment [Replaces Nuclear Plant]","Comment [Small chance of incident]","Remove [Nuclear Plant] [in this city]<hidden from users>",
+		"requiredTech": "Factory",
+		"uniques": ["Comment [Replaces Nuclear Plant]",
+			"Only available <if [Uranium Enrichment Facility] is constructed>",
+			"Comment [Small chance of incident]","Remove [Nuclear Plant] [in this city]<hidden from users>",
 			"Triggers a [Incident] event <upon turn end> <with [1]% chance> <if [Improved Reactors and Safety Systems] is not constructed><hidden from users>",
 			"Triggers a [Meltdown] event <upon turn end> <with [1]% chance> <if [Improved Reactors and Safety Systems] is not constructed><hidden from users>"]
 	}
