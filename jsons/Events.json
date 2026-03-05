@@ -1,9 +1,9 @@
 [
 	{
 		"name": "Chain reaction",
-		"text": "Calculation.",
+		"text": "A small ammount of physicists have raised a theory. A theory about possibility of catastrophic event: the ignition of the atomsphere. Possibility was very low, but not zero.",
 		"choices": [
-			{"text": "No need to worry, everything is under control.",
+			{"text": ".",
 			  "uniques": [	"[-3 Happiness] [in all cities] <for [6] turns>"] }
       
       			{ "text": "We will shut down the reactors for maintenance and repair.",
