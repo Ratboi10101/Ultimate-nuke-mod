@@ -102,7 +102,7 @@
 		"movement": 1,
 		"strength": 100000,
 		"rangedStrength": 100000,
-		"range": 1,
+		"range": 2,
 		"cost": 5500,
 		"requiredTech": "Nuclear Fusion",
 		"promotions": ["Evasion"],
@@ -121,7 +121,7 @@
 	{
 		"name": "'God's Rod'",
 		"unitType": "Satellite",
-		"movement": 5,
+		"movement": 4,
 		"strength": 100,
 		"rangedStrength": 100,
 		"range": 2,
