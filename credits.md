@@ -16,4 +16,4 @@ href="https://thenounproject.com/icon/satellite-8141874/">Satellite</a> by Azlan
 href="https://thenounproject.com/icon/satellite-7541794/">Satellite</a> by Firza Alamsyah and <a href="https://thenounproject.com/icon/spear-8305037/">Spear</a> by Studio Danro for 'God's Rod'
 
 
-https://thenounproject.com/icon/sickle-5130144/ https://thenounproject.com/icon/ballistic-missile-8109113/ first lightning
+https://thenounproject.com/icon/sickle-5130144/ first lightning
