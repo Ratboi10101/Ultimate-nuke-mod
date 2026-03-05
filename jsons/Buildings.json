@@ -4,7 +4,10 @@
 		"requiredTech": "Atomic Theory",
 		"cost": 370,
 		"maintenance": 2,
-		"uniques": ["Unavailable <when nuclear weapons are disabled>", "[+20]% [Uranium] resource production <in this city>", "Only available <with [Uranium]>"],
+		"uniques": ["Unavailable <when nuclear weapons are disabled>", 
+			"[+20]% [Uranium] resource production <in this city>", 
+			"Only available <with [Uranium]>",
+			"Triggers a [Chain reaction] event <upon constructing [Manhattan Project]> <if [Manhattan Project] is constructed by anybody>"],
 		"requiredBuilding": "Factory",
 		"requiredTech": "Atomic Theory"
 	},
@@ -16,9 +19,7 @@
 	  "uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion",
 		  "Only available <with [Uranium]>",
 		  "Only available <if [Uranium Enrichment Facility] is constructed>",
-		  "Gain a free [Uranium Enrichment Facility] [in this city]",
-		  "Triggers a [Chain reaction] event <upon constructing [Manhattan Project]> <if [Manhattan Project] is not constructed by anybody>",
-		  "Triggers a [Are we sure...?] event <upon constructing [Manhattan Project]> <if [Manhattan Project] is constructed by anybody>"],
+		  "Gain a free [Uranium Enrichment Facility] [in this city]",],
 	  "requiredBuilding": "Factory",
 	  "requiredTech": "Atomic Theory"
   },
