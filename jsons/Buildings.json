@@ -181,7 +181,7 @@
 	{
 		"name": "Nuclear Fusion Plant",
 		"production": 10,
-		"percentStatBonus": {"production": 15},
+		"percentStatBonus": {"production": 25},
 		"requiredBuilding": "Uranium Enrichment Facility",
 		"maintenance": 7,
 		"requiredResource": "Uranium",
