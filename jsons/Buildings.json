@@ -157,7 +157,9 @@
 		"maintenance": 5,
 		"requiredResource": "Uranium",
 		"requiredTech": "Nuclear Fission",
-		"uniques": ["Only available <in cities without a [Nuclear Fusion Plant]>","Comment [Small chance of incident and meltdown]","Triggers a [Incident] event <upon turn end> <with [3]% chance> <if [Improved Reactors and Safety Systems] is not constructed><hidden from users>",
+		"uniques": ["Only available <in cities without a [Nuclear Fusion Plant]>","Comment [Small chance of incident and meltdown]",
+			"Triggers a [Great!] event <upon turn end> <with [5]% chance> <if [Improved Reactors and Safety Systems] is not constructed><hidden from users>",
+			"Triggers a [Incident] event <upon turn end> <with [3]% chance> <if [Improved Reactors and Safety Systems] is not constructed><hidden from users>",
 			"Triggers a [Meltdown] event <upon turn end> <with [2]% chance> <if [Improved Reactors and Safety Systems] is not constructed><hidden from users>",
 			"Triggers a [Explosion] event <with [1]% chance> <if [Improved Reactors and Safety Systems] is not constructed><hidden from users>",
 			"Triggers a [Incident] event <upon turn end> <with [1]% chance> <if [Improved Reactors and Safety Systems] is constructed><hidden from users>",
@@ -166,6 +168,8 @@
 	{
 		"name": "Improved Reactors and Safety Systems",
 		"maintenance": 2,
+		"production": 2,
+		"percentStatBonus": {"production": 5},
 		"uniques": ["Unbuildable","Cannot be purchased"]
 	},
 	{
@@ -188,6 +192,7 @@
 		"requiredTech": "Factory",
 		"uniques": ["Comment [Replaces Nuclear Plant]",
 			"Only available <if [Uranium Enrichment Facility] is constructed>",
+			"Triggers a [Great!] event <upon turn end> <with [5]% chance> <if [Improved Reactors and Safety Systems] is not constructed><hidden from users>",
 			"Comment [Small chance of incident]","Remove [Nuclear Plant] [in this city]<hidden from users>",
 			"Triggers a [Incident] event <upon turn end> <with [1]% chance> <if [Improved Reactors and Safety Systems] is not constructed><hidden from users>",
 			"Triggers a [Meltdown] event <upon turn end> <with [1]% chance> <if [Improved Reactors and Safety Systems] is not constructed><hidden from users>"]
