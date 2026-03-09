@@ -1,5 +1,12 @@
 [
 	{
+		"name": "Great!",
+		"text": "Engineers at nuclear plant have created a improved reactor that can generate electricity more efficiently and also can prevent incidents from happening.",
+		"choices": [
+			{"text": "Safer, the better.",
+			  "uniques": ["Gain a free [Improved Reactors and Safety Systems] [in all cities]"] } ]
+  },
+	{
 		"name": "Chain Reaction",
 		"text": "The bright flash engulf the sight, followed by rumbring and strong shockwave. You did it. Your country has created a bomb that can end all wars forever, once for all. Yet, you have a feeling. Feeling that you have triggered a chain reaction that can destroy the entire world.",
 		"choices": [
